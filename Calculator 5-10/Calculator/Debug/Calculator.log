@@ -1,0 +1,6 @@
+﻿  Calculator.cpp
+D:\study\面向对象\Calculator\Calculator 5-10\Calculator\Calculator.cpp(78,25): warning C4101: “str”: 未引用的局部变量
+  main.cpp
+D:\study\面向对象\Calculator\Calculator 5-10\Calculator\main.cpp(53,23): warning C4101: “str”: 未引用的局部变量
+  正在生成代码...
+  Calculator.vcxproj -> D:\study\面向对象\Calculator\Calculator 5-10\Debug\Calculator.exe
